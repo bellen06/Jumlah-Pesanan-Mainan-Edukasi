@@ -1,4 +1,4 @@
-# Simulasi Monte Carlo Ketidakpastian Probabilitas pada Penjualan Mainan Edukasi Study Case Omochatoys
+# Simulasi Monte Carlo Ketidakpastian Probabilitas pada Penjualan Mainan Edukasi Study Case CV Omochatoys
 
 ## Deskripsi Simulasi dan Pemodelan
 
