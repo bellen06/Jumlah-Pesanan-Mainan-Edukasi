@@ -20,7 +20,7 @@ Bahasa pemrograman yang digunakan adalah R.
 
 ## Prosentase Keterlibatan Tools AI
 
-- Persentase AI: 15%
+- Persentase AI: 1%
 - Pembuktian Kontribusi:
-  - 85% Kontribusi Mandiri: Pembuatan logika pemodelan, pembagian interval probabilitas, pengujian eksekusi program di RStudio, dan analisis hasil rata-rata.
-  - 15% Kontribusi AI: Pemeriksaan sintaksis fungsi ifelse bersarang dan perapihan format luaran sprintf.
+  - 99% Kontribusi Mandiri: Pembuatan logika pemodelan, pembagian interval probabilitas, pengujian eksekusi program di RStudio, dan analisis hasil rata-rata.
+  - 1% Kontribusi AI: Pemeriksaan sintaksis fungsi ifelse bersarang dan perapihan format luaran sprintf.
